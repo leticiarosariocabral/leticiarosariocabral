@@ -1,7 +1,7 @@
 
 <img align="right" src="laptop.png" width="400" alt="Leticia Carmina da Penha do Rosário's Dev Card"/>
 
-### 💙 Olá, meu nome é Letícia Cabral
+# 💙 Olá, meu nome é Letícia Cabral
 
 - 👉 Hoje trabalho com Front-end Developer & Analista de Sistemas
 - 💜 Tenho alguma experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento), Msql, Postgresql.
