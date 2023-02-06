@@ -5,7 +5,7 @@
 
 - 👉 At moment I work with Systems Analyst, with company called Unitel t+(it´s a company of telecommmunications).
 - 💜 I´m graduate on Managment Infromatics, i own experince with Scrum, metod BDD(Behavior Driven Development), MSQYL, Postgresql.
-- 💻 I am styding Power BI, data analysis and getting better on System Analystc.
+- 💻 I am styding Power BI, data analysis and getting better on System Analysis.
 - I pretend expand my knowledge an level of data analysis.
 
 <p> 
