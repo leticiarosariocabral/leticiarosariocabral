@@ -1,23 +1,24 @@
 
-<img align="right" src="laptop.png" width="400" alt="Leticia Carmina da Penha do Rosário's Dev Card"/>
+<img align="right" src="laptop.png" width="450" alt="laptop"/>
 
-# Olá, meu nome é Letícia Cabral
+<h1>Olá, meu nome é Letícia Cabral</h1> 
 
-- 👉 Hoje trabalho com Front-end Developer & Analista de Sistemas
-- 💜 Tenho alguma experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento), Msql, Postgresql.
-- 💻 Estudando Power BI e analise de dados.
+- 👉 No momento estou trabalhando como Analista de Sistema na Unitel t+(uma empresa de telecomunicações).
+- 💜 Sou formada em Informatica de Gestão, possuo experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento), Msql, Postgresql.
+- 💻 Estudando Power BI, analise de dados e aprofundando em analise de sistemas.
+- Procuro espandir meus conhecimentos a nível de analise de dados.
 
-<div> 
+<p> 
   <a href="mailto:leticiarosariocabral23@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&[link=LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/leticiarosariocabral/)" /></a>
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&[link=API-DO-SEU-WHATSAPP](https://wa.link/qn25az)"/></a>
-</div>
+</p>
 
-##
-##
+
+
 ### 🧰 Skills 
 
 
@@ -35,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="42" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="42" alt="postgresql logo"/>
   <img src="https://img.icons8.com/color/256/power-bi.png" height="30" width="40" alt="power bi logo">
 </p>
 
