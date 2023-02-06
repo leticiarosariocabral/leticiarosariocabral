@@ -1,7 +1,7 @@
 
 <img align="right" src="laptop.png" width="450" alt="laptop"/>
 
-<h1>Hi, my name is <a href="https://leticiadev.com/">Letícia Cabral</a></h1> 
+<h1>Hi, my name is <a href="https://leticiadev.com/" target="_blank" rel="noopener noreferrer">Letícia Cabral</a></h1> 
 
 - 👉 At moment I work with Systems Analyst, with company called Unitel t+(it´s a company of telecommmunications).
 - 💜 I´m graduate on Managment Infromatics, i own experince with Scrum, metod BDD(Behavior Driven Development), MSQYL, Postgresql.
@@ -9,11 +9,11 @@
 - I pretend expand my knowledge an level of data analysis.
 
 <p> 
-  <a href="mailto:leticiarosariocabral23@gmail.com" alt="Gmail">
+  <a href="mailto:leticiarosariocabral23@gmail.com" target="_blank" rel="noopener noreferrer" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-  <a href="#" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/leticiarosariocabral/" target="_blank" rel="noopener noreferrer" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&[link=LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/leticiarosariocabral/)" /></a>
-  <a href="(https://wa.link/qn25az)" alt="WhatsApp">
+  <a href="(https://wa.link/qn25az)" target="_blank" rel="noopener noreferrer" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&[link=API-DO-SEU-WHATSAPP]"/></a>
 </p>
 
