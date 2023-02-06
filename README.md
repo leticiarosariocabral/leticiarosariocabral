@@ -1,20 +1,20 @@
 
 <img align="right" src="laptop.png" width="450" alt="laptop"/>
 
-<h1>Olá, meu nome é Letícia Cabral</h1> 
+<h1>Hi, my name is <a href="https://leticiadev.com/">Letícia Cabral</a></h1> 
 
-- 👉 No momento estou trabalhando como Analista de Sistema na Unitel t+(uma empresa de telecomunicações).
-- 💜 Sou formada em Informatica de Gestão, possuo experiencia com Scrum, metodo BDD(Desenvolvimento orientado por comportamento), Msql, Postgresql.
-- 💻 Estudando Power BI, analise de dados e aprofundando em analise de sistemas.
-- Procuro espandir meus conhecimentos a nível de analise de dados.
+- 👉 At moment I work with Systems Analyst, with company called Unitel t+(it´s a company of telecommmunications).
+- 💜 I´m graduate on Managment Infromatics, i own experince with Scrum, metod BDD(Behavior Driven Development), MSQYL, Postgresql.
+- 💻 I am styding Power BI, data analysis and getting better on System Analystc.
+- I pretend expand my knowledge an level of data analysis.
 
 <p> 
   <a href="mailto:leticiarosariocabral23@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&[link=LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/leticiarosariocabral/)" /></a>
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&[link=API-DO-SEU-WHATSAPP](https://wa.link/qn25az)"/></a>
+  <a href="(https://wa.link/qn25az)" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&[link=API-DO-SEU-WHATSAPP]"/></a>
 </p>
 
 
@@ -40,11 +40,11 @@
   <img src="https://img.icons8.com/color/256/power-bi.png" height="30" width="40" alt="power bi logo">
 </p>
 
-### **GitHub Estatísticas**
-<a href="https://github.com/Gurupreet">
+### **GitHub Estatistics**
+<a href="https://github.com/leticiarosariocabral">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiarosariocabral&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/leticiarosariocabral">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiarosariocabral&show_icons=true&theme=dracula&line_height=27" alt="**Letícia Cabral** github stats"/>
 </a>
