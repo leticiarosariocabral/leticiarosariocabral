@@ -3,8 +3,8 @@
 
 <h1>Hi, my name is <a href="https://leticiadev.com/" target="_blank" rel="noopener noreferrer">Letícia Cabral</a></h1> 
 
-- 👉 At moment I work with Systems Analyst, with company called Unitel t+(it´s a company of telecommmunications).
-- 💜 I´m graduate on Managment Infromatics, i own experince with Scrum, metod BDD(Behavior Driven Development), MSQYL, Postgresql.
+- 👉 At moment I work has a Systems Analyst, with a company called Unitel t+(it´s a company of telecommmunications).
+- 💜 I´m graduate on Managment Informatics, i own experince with Scrum, metod BDD(Behavior Driven Development), MSQYL, Postgresql.
 - 💻 I am styding Power BI, data analysis and getting better on System Analysis.
 - I pretend expand my knowledge an level of data analysis.
 
