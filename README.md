@@ -40,11 +40,3 @@
   <img src="https://img.icons8.com/color/256/power-bi.png" height="30" width="40" alt="power bi logo">
 </p>
 
-### **GitHub Estatistics**
-<a href="https://github.com/leticiarosariocabral">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiarosariocabral&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/leticiarosariocabral">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiarosariocabral&show_icons=true&theme=dracula&line_height=27" alt="**Letícia Cabral** github stats"/>
-</a>
