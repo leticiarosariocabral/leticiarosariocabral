@@ -1,4 +1,3 @@
-
 <img align="right" src="laptop.png" width="450" alt="laptop"/>
 
 <h1>Hi, my name is <a href="https://leticiadev.com/" target="_blank" rel="noopener noreferrer">Letícia Cabral</a></h1> 
@@ -18,10 +17,7 @@
 </p>
 
 
-
 ### 🧰 Skills 
-
-
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
